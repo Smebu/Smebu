@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Semih, and welcome to my GitHub bio.
-- 🌱 I’m currently learning web developpement (frontend).
+- 🌱 I’m currently learning web developpement (frontend) with OpenClassrooms.
 - 🗼 Im based in Paris, France.
 - 👀 I love to travel and read books.
 - 📫 How to reach me: semih@programmer.net

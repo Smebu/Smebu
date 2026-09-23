@@ -1,6 +1,6 @@
 # Hi, I'm Semih
 
-I'm based in Paris, France. After completing a frontend development program with OpenClassrooms in 2021–2022, I'm returning to software development with a structured learning plan and hands-on practice.
+I'm based around Paris, France. After completing a frontend development program with OpenClassrooms in 2021–2022, I'm returning to software development with a structured learning plan and hands-on practice.
 
 ## Current focus
 
